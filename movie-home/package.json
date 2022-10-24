@@ -1,0 +1,7 @@
+{
+  "name": "movie-home",
+  "description": "movie-home",
+  "dependencies": {
+    "@lightningjs/sdk": "^5.1.0"
+  }
+}

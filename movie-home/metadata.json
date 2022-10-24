@@ -1,0 +1,6 @@
+{
+  "name": "movie-home",
+  "identifier": "movie-home",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}

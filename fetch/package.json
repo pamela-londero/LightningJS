@@ -1,0 +1,7 @@
+{
+  "name": "fetch",
+  "description": "fetch",
+  "dependencies": {
+    "@lightningjs/sdk": "^5.1.0"
+  }
+}
